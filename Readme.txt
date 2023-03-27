@@ -1,1 +1,0 @@
-### Welcome to Ml-project repo for end-to-end ML structure 
